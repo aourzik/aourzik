@@ -21,11 +21,11 @@ Originally trained as an **ergonomist**, I am currently transitioning into a **f
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-lmb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aourzik&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-lmb&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aourzik&layout=compact&theme=tokyonight" />
 </p>
 
 ---
