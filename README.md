@@ -21,12 +21,12 @@ Originally trained as an **ergonomist**, I am currently transitioning into a **f
 ## 📊 GitHub Stats
 
 <p align="left">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aourzik&theme=tokyonight&hide_border=true" />
+  <!-- Total stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aourzik&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <!-- Top Langs -->
+  <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aourzik&layout=compact&theme=tokyonight" />
 </p>
 ---
