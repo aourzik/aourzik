@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aïny 👋✨
 
-<!--
-**aourzik/aourzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🇫🇷  
+Ergonome de formation, je suis actuellement en reconversion à la **Holberton School** pour devenir **développeuse full-stack**, avec une approche centrée sur l’expérience utilisateur, la qualité du code et la résolution de problèmes concrets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇬🇧  
+Originally trained as an **ergonomist**, I am currently transitioning into a **full-stack developer** role at **Holberton School**, combining a strong user-centered mindset with technical problem-solving and clean, efficient code.
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,c,html,css,python,linux,vscode,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=v-lmb&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-lmb&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+✨ *Always learning, always improving.*
