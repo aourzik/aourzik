@@ -21,14 +21,20 @@ Originally trained as an **ergonomist**, I am currently transitioning into a **f
 ## 📊 GitHub Stats
 
 <p align="left">
-  <!-- Total stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aourzik&show_icons=true&theme=tokyonight" />
+  <!-- Streak card -->
+  <img src="https://streak-stats.vercel.app/?user=aourzik&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="left">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aourzik&layout=compact&theme=tokyonight" />
+  <!-- Total stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aourzik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="left">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aourzik&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
 ✨ *Always learning, always improving.*
