@@ -22,7 +22,7 @@ Originally trained as an **ergonomist**, I am currently transitioning into a **f
 
 <p align="left">
   <!-- Streak card -->
-  <img src="https://streak-stats.vercel.app/?user=aourzik&theme=synthwave&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=aourzik&theme=prussian&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
